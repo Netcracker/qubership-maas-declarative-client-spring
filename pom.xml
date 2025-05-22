@@ -26,7 +26,7 @@
 
         <maas-declarative-kafka-client.version>5.0.1</maas-declarative-kafka-client.version>
         <maas-client-spring.version>8.0.1</maas-client-spring.version>
-        <opentelemetry-kafka-clients.version>2.4.0-alpha</opentelemetry-kafka-clients.version>
+        <opentelemetry-kafka-clients.version>2.13.3-alpha</opentelemetry-kafka-clients.version>
     </properties>
 
     <dependencyManagement>
