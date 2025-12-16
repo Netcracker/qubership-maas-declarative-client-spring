@@ -30,7 +30,7 @@
         <spring-cloud.version>2024.0.2</spring-cloud.version>
         <springdoc.version>1.6.11</springdoc.version>
 
-        <testcontainers.version>1.21.3</testcontainers.version>
+        <testcontainers.version>1.21.4</testcontainers.version>
 
         <maas-declarative-kafka-client.version>5.2.6</maas-declarative-kafka-client.version>
         <maas-client-spring.version>8.2.5</maas-client-spring.version>
